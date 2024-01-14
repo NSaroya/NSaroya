@@ -9,5 +9,5 @@ I'm an Electrical Engineering student at the University of Alberta with a focus 
 * [Product Engineer - Microchip Technology](https://www.microchip.com/) - Jan 2022 - Dec 2022
 * [Manufacturing Engineering Co-op - TWA Panel Systems](https://twapanels.ca/) - Summer 2021
 * [Electrical Design Co-lead - Autonomous Robotic Vehicle Project](https://arvp.org/) - Winter 2020
-* [Teaching Assistant - https://www.teamupscience.com/](https://www.teamupscience.com/) - October 2020 - April 2021
+* [Teaching Assistant - TeamUP Science](https://www.teamupscience.com/) - October 2020 - April 2021
 <!-- writing ends -->
